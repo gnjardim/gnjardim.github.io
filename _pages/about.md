@@ -10,8 +10,8 @@ redirect_from:
 
 I am a PhD Student in Economics at Yale University. 
 
-**Research Interests:**
 
- * Industrial Organization
+**Research Interests:**  
+ * Industrial Organization  
  * Development Economics
 
