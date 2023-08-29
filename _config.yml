@@ -84,7 +84,8 @@ author:
   avatar           : "profile.jpg"
   bio              : "PhD Student in Economics at Yale University"
   location         : "New Haven, CT / Rio de Janeiro, RJ"
-  university       : "Yale University"
+  university       : 
+  employer         : "Yale University"
   pubmed           : 
   googlescholar    : 
   email            : "guilheme.jardim@yale.edu"
