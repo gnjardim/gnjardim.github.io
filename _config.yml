@@ -82,10 +82,10 @@ analytics:
 author:
   name             : "Guilherme Jardim"
   avatar           : "profile.jpg"
-  bio              : "PhD Student in Economics at Yale University"
+  bio              : "PhD Student in Economics"
   location         : "New Haven, CT / Rio de Janeiro, RJ"
-  university       : 
-  employer         : "Yale University"
+  university       : "Yale University"
+  employer         : 
   pubmed           : 
   googlescholar    : 
   email            : "guilheme.jardim@yale.edu"
