@@ -13,5 +13,5 @@ I am a PhD Student in Economics at Yale University.
 
 **Research Interests:**  
  * Industrial Organization  
- * Development Economics
+ * Urban Economics
 
