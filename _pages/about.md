@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD Student in Economics at Yale University. 
+I am a PhD Candidate in Economics at Yale University. 
 
 
 **Research Interests:**  
