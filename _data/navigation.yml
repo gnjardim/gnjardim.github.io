@@ -20,6 +20,7 @@ main:
     
   - title: "CV"
     url: "/files/CV_Guilherme.pdf"
+    new_tab: true
     
 #  - title: "Guide"
 #    url: /markdown/
