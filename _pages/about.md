@@ -11,7 +11,9 @@ redirect_from:
 I am a PhD Candidate in Economics at Yale University. 
 
 
-**Research Interests:**  
+**Research Interests:**
+<div style="margin-top: -0.5em;" markdown="1">
  * Industrial Organization  
  * Development Economics
+</div>
 
