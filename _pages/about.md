@@ -12,6 +12,7 @@ I am a PhD Candidate in Economics at Yale University.
 
 
 **Research Interests:**  
+<details style="margin-top: -0.5em;">
  * Industrial Organization  
  * Development Economics
 
