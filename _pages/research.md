@@ -7,7 +7,7 @@ author_profile: true
 
 ## Working Papers
 
-**[Earth, Wind and Fire: Health Outcomes of Long-Range PM2.5 Transport from Amazon Fires](https://onedrive.live.com/?id=%2Fpersonal%2Fd9864979bd4549cf%2FDocuments%2FDocuments%2Ffire%2Dpath%2Fdocs%2F2026%2D06%2D02%5Fearth%2Dwind%2Dfire%2Drevision%2Fearth%2Dwind%2Dfire%2Epdf&listurl=%2Fpersonal%2Fd9864979bd4549cf%2FDocuments&ithint=file%2Cpdf&e=pzE5ip&migratedtospo=true&parent=%2Fpersonal%2Fd9864979bd4549cf%2FDocuments%2FDocuments%2Ffire%2Dpath%2Fdocs%2F2026%2D06%2D02%5Fearth%2Dwind%2Dfire%2Drevision&redeem=aHR0cHM6Ly8xZHJ2Lm1zL2IvYy9kOTg2NDk3OWJkNDU0OWNmL0lRRERLOU9hbUd4M1NheHpYZWhBRW9ETUFlMUozQm9hZ0JkSG4yU1l1dTFKVVlnP2U9cHpFNWlw&ga=1)** <span style="font-size: 0.85em">(with Julio de Barros and Akiva Rube) — *Under revision at the Journal of Health Economics*</span>
+**<a href="https://onedrive.live.com/?id=%2Fpersonal%2Fd9864979bd4549cf%2FDocuments%2FDocuments%2Ffire%2Dpath%2Fdocs%2F2026%2D06%2D02%5Fearth%2Dwind%2Dfire%2Drevision%2Fearth%2Dwind%2Dfire%2Epdf&listurl=%2Fpersonal%2Fd9864979bd4549cf%2FDocuments&ithint=file%2Cpdf&e=pzE5ip&migratedtospo=true&parent=%2Fpersonal%2Fd9864979bd4549cf%2FDocuments%2FDocuments%2Ffire%2Dpath%2Fdocs%2F2026%2D06%2D02%5Fearth%2Dwind%2Dfire%2Drevision&redeem=aHR0cHM6Ly8xZHJ2Lm1zL2IvYy9kOTg2NDk3OWJkNDU0OWNmL0lRRERLOU9hbUd4M1NheHpYZWhBRW9ETUFlMUozQm9hZ0JkSG4yU1l1dTFKVVlnP2U9cHpFNWlw&ga=1" target="_blank" rel="noopener">Earth, Wind and Fire: Health Outcomes of Long-Range PM2.5 Transport from Amazon Fires</a>** <span style="font-size: 0.85em">(with Julio de Barros and Akiva Rube) — *Under revision at the Journal of Health Economics*</span>
 
 <details style="margin-top: -0.5em;">
 <summary style="font-size: 0.85em; cursor: pointer;">Abstract</summary>
