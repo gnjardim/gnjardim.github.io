@@ -16,4 +16,4 @@ author_profile: true
 
 ## Work in Progress
 
-**Is It Worth Fighting For? Territorial Control and Urban Segregation in Rio de Janeiro** <span style="font-size: 0.85em">(with Maria Mittelbach)</span>
+**Is It Worth Fighting For? Territorial Control and Urban Segregation in Rio de Janeiro** <span style="font-size: 0.85em">(with <a href="https://mmittelbach.github.io/" target="_blank" rel="noopener">Maria Mittelbach</a>)</span>
